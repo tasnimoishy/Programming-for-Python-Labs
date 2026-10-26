@@ -1,0 +1,9 @@
+a = 33
+b = 200
+
+if b > a:
+    pass
+else:
+    print("printing else")
+
+print("without printing else")
