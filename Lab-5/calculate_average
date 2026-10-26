@@ -1,0 +1,4 @@
+def calculate_average(marks):
+    if not marks:
+        return None
+    return sum(marks) / len(marks)
